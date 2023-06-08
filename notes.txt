@@ -1,0 +1,61 @@
+# Helper functions
+
+# Convert list into dictionary.
+# Check for numeric answers.
+# Check for yes or no answers.
+
+
+# Have a main menu function that holds potential things we can do
+
+
+
+
+# Option One : Create a new task.
+# Ask what time does this task begin.
+# Ask what time does this task end.
+
+# If times are weird, or one task has a starting time pass it's end time >
+# Ask wether to delete this task or not.
+# If yes, just go back to main menu.
+# If no, create the task.
+
+# Ask for a name.
+# Ask for verification to making this task.
+
+# If it overlaps.
+# Check if this task overlaps with another.
+# If it does, ask if they'd like to go through.
+# If they say yes, make it.
+
+# If yes, make it and send back to main menu.
+
+
+
+
+# Option Two : View task.
+# Read data file, print it out.
+
+
+
+
+# Option Three : Delete a task.
+# Check if file is not empty, if it is, return.
+# Read and print all task after converting the list of task to a dictionary.
+# Ask the user to input the index of the item in order to delete it.
+# Check if the index is inside the dictionary.
+# Put that line inside a table.
+# Save that table.
+
+# Read all lines and store it.
+# Truncate the file, deleting everything.
+# Loop through the read lines, loop through the lines we do not want to save using the saved table.
+# Write the lines we want to save and ignore the ones we don't.
+# Finish.
+
+
+# Option Four : Quit.
+# Call quit() and finish.
+
+
+
+
